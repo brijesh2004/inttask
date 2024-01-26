@@ -1,0 +1,45 @@
+Router
+A router is a hardware device which is used to connect a LAN with an internet connection. It is used to receive, analyze and forward the incoming packets to another network.
+A router works in a Layer 3 (Network layer) of the OSI Reference model.
+A router forwards the packet based on the information available in the routing table.
+It determines the best path from the available paths for the transmission of the packet.
+Router
+A router is a hardware device which is used to connect a LAN with an internet connection. It is used to receive, analyze and forward the incoming packets to another network.
+A router works in a Layer 3 (Network layer) of the OSI Reference model.
+A router forwards the packet based on the information available in the routing table.
+It determines the best path from the available paths for the transmission of the packet.
+Router
+A router is a hardware device which is used to connect a LAN with an internet connection. It is used to receive, analyze and forward the incoming packets to another network.
+A router works in a Layer 3 (Network layer) of the OSI Reference model.
+A router forwards the packet based on the information available in the routing table.
+It determines the best path from the available paths for the transmission of the packet.
+Router
+A router is a hardware device which is used to connect a LAN with an internet connection. It is used to receive, analyze and forward the incoming packets to another network.
+A router works in a Layer 3 (Network layer) of the OSI Reference model.
+A router forwards the packet based on the information available in the routing table.
+It determines the best path from the available paths for the transmission of the packet.
+Router
+A router is a hardware device which is used to connect a LAN with an internet connection. It is used to receive, analyze and forward the incoming packets to another network.
+A router works in a Layer 3 (Network layer) of the OSI Reference model.
+A router forwards the packet based on the information available in the routing table.
+It determines the best path from the available paths for the transmission of the packet.
+Router
+A router is a hardware device which is used to connect a LAN with an internet connection. It is used to receive, analyze and forward the incoming packets to another network.
+A router works in a Layer 3 (Network layer) of the OSI Reference model.
+A router forwards the packet based on the information available in the routing table.
+It determines the best path from the available paths for the transmission of the packet.
+Router
+A router is a hardware device which is used to connect a LAN with an internet connection. It is used to receive, analyze and forward the incoming packets to another network.
+A router works in a Layer 3 (Network layer) of the OSI Reference model.
+A router forwards the packet based on the information available in the routing table.
+It determines the best path from the available paths for the transmission of the packet.
+Router
+A router is a hardware device which is used to connect a LAN with an internet connection. It is used to receive, analyze and forward the incoming packets to another network.
+A router works in a Layer 3 (Network layer) of the OSI Reference model.
+A router forwards the packet based on the information available in the routing table.
+It determines the best path from the available paths for the transmission of the packet.
+Router
+A router is a hardware device which is used to connect a LAN with an internet connection. It is used to receive, analyze and forward the incoming packets to another network.
+A router works in a Layer 3 (Network layer) of the OSI Reference model.
+A router forwards the packet based on the information available in the routing table.
+It determines the best path from the available paths for the transmission of the packet.

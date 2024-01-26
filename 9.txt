@@ -1,0 +1,42 @@
+Client/Server Network
+Client/Server network is a network model designed for the end users called clients, to access the resources such as songs, video, etc. from a central computer known as Server.
+The central controller is known as a server while all other computers in the network are called clients.
+A server performs all the major operations such as security and network management.
+A server is responsible for managing all the resources such as files, directories, printer, etc.
+All the clients communicate with each other through a server. For example, if client1 wants to send some data to client 2, then it first sends the request to the server for the permission. The server sends the response to the client 1 to initiate its communication with the client 2.
+Client/Server Network
+Client/Server network is a network model designed for the end users called clients, to access the resources such as songs, video, etc. from a central computer known as Server.
+The central controller is known as a server while all other computers in the network are called clients.
+A server performs all the major operations such as security and network management.
+A server is responsible for managing all the resources such as files, directories, printer, etc.
+All the clients communicate with each other through a server. For example, if client1 wants to send some data to client 2, then it first sends the request to the server for the permission. The server sends the response to the client 1 to initiate its communication with the client 2.
+Client/Server Network
+Client/Server network is a network model designed for the end users called clients, to access the resources such as songs, video, etc. from a central computer known as Server.
+The central controller is known as a server while all other computers in the network are called clients.
+A server performs all the major operations such as security and network management.
+A server is responsible for managing all the resources such as files, directories, printer, etc.
+All the clients communicate with each other through a server. For example, if client1 wants to send some data to client 2, then it first sends the request to the server for the permission. The server sends the response to the client 1 to initiate its communication with the client 2.
+Client/Server Network
+Client/Server network is a network model designed for the end users called clients, to access the resources such as songs, video, etc. from a central computer known as Server.
+The central controller is known as a server while all other computers in the network are called clients.
+A server performs all the major operations such as security and network management.
+A server is responsible for managing all the resources such as files, directories, printer, etc.
+All the clients communicate with each other through a server. For example, if client1 wants to send some data to client 2, then it first sends the request to the server for the permission. The server sends the response to the client 1 to initiate its communication with the client 2.
+Client/Server Network
+Client/Server network is a network model designed for the end users called clients, to access the resources such as songs, video, etc. from a central computer known as Server.
+The central controller is known as a server while all other computers in the network are called clients.
+A server performs all the major operations such as security and network management.
+A server is responsible for managing all the resources such as files, directories, printer, etc.
+All the clients communicate with each other through a server. For example, if client1 wants to send some data to client 2, then it first sends the request to the server for the permission. The server sends the response to the client 1 to initiate its communication with the client 2.
+Client/Server Network
+Client/Server network is a network model designed for the end users called clients, to access the resources such as songs, video, etc. from a central computer known as Server.
+The central controller is known as a server while all other computers in the network are called clients.
+A server performs all the major operations such as security and network management.
+A server is responsible for managing all the resources such as files, directories, printer, etc.
+All the clients communicate with each other through a server. For example, if client1 wants to send some data to client 2, then it first sends the request to the server for the permission. The server sends the response to the client 1 to initiate its communication with the client 2.
+Client/Server Network
+Client/Server network is a network model designed for the end users called clients, to access the resources such as songs, video, etc. from a central computer known as Server.
+The central controller is known as a server while all other computers in the network are called clients.
+A server performs all the major operations such as security and network management.
+A server is responsible for managing all the resources such as files, directories, printer, etc.
+All the clients communicate with each other through a server. For example, if client1 wants to send some data to client 2, then it first sends the request to the server for the permission. The server sends the response to the client 1 to initiate its communication with the client 2.

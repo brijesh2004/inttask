@@ -1,0 +1,15 @@
+Features Of Computer network
+A list Of Computer network features is given below.
+Communication speed
+File sharing
+Back up and Roll back is easy
+Software and Hardware sharing
+Security
+Scalability
+Reliability
+Communication speed
+Network provides us to communicate over the network in a fast and efficient manner. For example, we can do video conferencing, email messaging, etc. over the internet. Therefore, the computer network is a great way to share our knowledge and ideas.
+File sharing
+File sharing is one of the major advantage of the computer network. Computer network provides us to share the files with each other.
+Back up and Roll back is easy
+Since the files are stored in the main server which is centrally located. Therefore, it is easy to take the back up from the main server.

@@ -1,0 +1,8 @@
+Software and Hardware sharing
+We can install the applications on the main server, therefore, the user can access the applications centrally. So, we do not need to install the software on every machine. Similarly, hardware can also be shared.
+Security
+Network allows the security by ensuring that the user has the right to access the certain files and applications.
+Scalability
+Scalability means that we can add the new components on the network. Network must be scalable so that we can extend the network by adding new devices. But, it decreases the speed of the connection and data of the transmission speed also decreases, this increases the chances of error occurring. This problem can be overcome by using the routing or switching devices.
+Reliability
+Computer network can use the alternative source for the data communication in case of any hardware failure.
